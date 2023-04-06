@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-      <img src="./logo-no-background.svg" className="w-[100px] h-[100px] bg-accent-300 z-[888]"/>
+      <img src="./images/logo-no-background.svg" className="w-[100px] h-[100px] bg-accent-300 z-[888]"/>
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
